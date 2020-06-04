@@ -1,0 +1,3 @@
+nodeMcuBlink   KEYWORD1
+star   KEYWORD2
+stop    KEYWORD2
